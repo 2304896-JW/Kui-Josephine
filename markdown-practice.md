@@ -12,7 +12,7 @@ This semester, I want to become **proficient** in programming, improve my *probl
 
 ## Exercise 3 — Links
 
-- My GitHub Profile: [My GitHub](https://github.com/your-username)
+- My GitHub Profile: [My GitHub](https://github.com/2304896-JW)
 - Useful Website: [W3Schools](https://www.w3schools.com/)
 
 ---
@@ -59,3 +59,40 @@ def greet(name):
     return f"Hello, {name}! Welcome to my GitHub."
 
 print(greet("Josephine"))
+---
+
+## About Me
+
+Hello! My name is **Josephine Wangui**, and I am a *BBIT and Computer Programming* student passionate about technology and innovation.
+
+### What I’m Currently Learning
+
+- Data Structures and Algorithms  
+- Web Development using `HTML`, `CSS`, and `Python`  
+- Database design and SQL  
+
+### My Learning Progress
+
+- [x] Created my GitHub profile repository  
+- [x] Practiced basic Markdown  
+- [ ] Build a full-stack web application  
+- [ ] Contribute to an open-source project  
+
+### Tools I Use
+
+| Tool     | Purpose                     | Link |
+|----------|-----------------------------|------|
+| VS Code  | Writing and editing code    | https://code.visualstudio.com/ |
+| Python   | Programming and automation  | https://www.python.org/ |
+
+You can view my projects on [My GitHub Profile](https://github.com/230486-JW).
+
+> "Success in tech comes from continuous learning and consistent practice."
+
+### Sample Code I’m Proud Of
+
+```python
+def student_goal(goal):
+    return f"My goal is to master {goal}."
+
+print(student_goal("Software Development"))
