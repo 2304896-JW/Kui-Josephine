@@ -87,7 +87,7 @@ Hello! My name is **Josephine Wangui**, and I am a *BBIT and Computer Programmin
 
 You can view my projects on [My GitHub Profile](https://github.com/230486-JW).
 
-> "Success in tech comes from continuous learning and consistent practice."
+> "Success in tech comes from continuous learning and consistent practice and practice makes perfect"
 
 ### Sample Code I’m Proud Of
 
